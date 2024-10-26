@@ -3,11 +3,10 @@ Learn how I use MySQL optimization techniques to achieve optimal inventory level
 
 
 ## Introduction
-This project is about supply chain and inventory issues for a company facing significant inventory management challenges. These challenges are affecting their operational efficiency and customer satisfaction. To solve these issues, there is a need to implement a sophisticated inventory optimization system using MySQL to address these business challenges effectively
+This project is about supply chain and inventory issues for a company facing significant inventory management challenges. These challenges are affecting their operational efficiency and customer satisfaction. To solve these issues, there is a need to implement a sophisticated inventory optimization system using MySQL to address the business challenges effectively
 
 ## Problem Statement
 Here are the business problems:
-
 * Overstocking: There are excessive inventory of certain products
 * Understocking: Conversely, high-demand products regularly suffer from stockouts
 * Customer Satisfaction: Lack of customer satisfaction and loyalty due to delays, frequent stockouts and frustration when they cannot find the products they seek.
@@ -22,7 +21,7 @@ The stakeholder should be able to
 * Determine the lead time demand for each product
 
 ## Data Source
-This dataset is sourced from amdari.io
+This dataset is sourced from [amdari.io](amdari.io)
 
 ## Skills and Concepts Demonstrated
 * Query Optimization
