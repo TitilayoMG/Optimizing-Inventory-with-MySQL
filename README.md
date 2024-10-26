@@ -37,11 +37,8 @@ I tranformed the data in MySQL, checked for Column quality and converted each co
 * Data Cleaning
 ![](DataFormat.PNG)
 
-## Data Analysis 
-
-
 ## Key Analysis
-* Analyze the sales trend and calculated sales stock levels based on sales reliability and lead time.
+* Analyzed the sales trend and calculated sales stock levels based on sales reliability and lead time.
 * Calculated the optimal reorder point, which is the level at which a new order should be placed.
 * Automated the calculation of reorder points to avoid repeating the same process over and over again.
 
